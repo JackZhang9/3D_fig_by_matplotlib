@@ -1,0 +1,2 @@
+# 3D_fig_by_matplotlib
+用matplotlib画三维图
